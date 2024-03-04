@@ -8,3 +8,5 @@ const BrowseLayout = ({ children }: { children: React.ReactNode }) => {
 		</>
 	);
 };
+
+export default BrowseLayout;
